@@ -1,6 +1,3 @@
 - [積極的サイバー防御の「司令塔」新設へ…自衛隊や警察庁の指揮・民間ハッカー登用も検討 : 読売新聞オンライン](https://www.yomiuri.co.jp/politics/20221031-OYT1T50257/)
 - [「積極的サイバー防御」（アクティブ・サイバー・ディフェンス）とは何か ―より具体的な議論に向けて必要な観点について― - JPCERT/CC Eyes | JPCERTコーディネーションセンター公式ブログ](about:reader?url=https%3A%2F%2Fblogs.jpcert.or.jp%2Fja%2F2022%2F09%2Factive-cyber-defense.html)
   - 日本語としての「積極的サイバー防御」の初出は、2011年の米国防総省サイバー戦略に用いられた「Active Cyber Defense」の訳
-- [[2252]]-1231-Sa
-  - 各社報道、および防衛省など省庁からの発表も出ているはず
-    - []()　url  
