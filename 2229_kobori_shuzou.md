@@ -11,4 +11,5 @@
 [酒仙i 販売管理｜株式会社ティー・エス・アイ｜酒造業向け酒税対応販売管理・蔵内管理システム](https://tsis.co.jp/service/shusen_hanbai)
   - `subdomains.tsis.co.jp` に`kobori` や `manzairaku` 該当は無い
 
+
 ## 追跡調査
